@@ -2,7 +2,8 @@
 
 session_start();
 
-$catetorias = [];   $categorias[] = 'infantil';
+$catetorias = [];
+$categorias[] = 'infantil';
 $categorias[] = 'adolescente';
 $categorias[] = 'adulto';
 
